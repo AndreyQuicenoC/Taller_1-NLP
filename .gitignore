@@ -1,0 +1,31 @@
+# Entornos
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Salidas del notebook (se regeneran al ejecutar)
+wiki2/
+models/
+embeddings/
+figures/
+results/
+data/
+sarcasmo/
+*.model
+*.vocab
+*.keras
+*.safetensors
+*.pth
+*.pt
+
+# Legacy
+problem/
+taller1_artifacts/
+temp/
+
+# IDE / SO
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

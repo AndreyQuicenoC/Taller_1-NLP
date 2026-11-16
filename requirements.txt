@@ -1,0 +1,15 @@
+# Taller 1 PLN v1.0.0 — el notebook instala dependencias con !pip; esto sirve para entorno local.
+numpy==2.2.6
+pandas
+matplotlib
+scikit-learn
+nltk
+tqdm
+datasets
+transformers
+sentencepiece
+gensim
+evaluate
+accelerate
+tensorflow
+torch
